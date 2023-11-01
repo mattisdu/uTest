@@ -32,5 +32,5 @@ You can use uGene via command-line or the dashboard.
    python uGeneCore.py -h
 #### Garfic-Interface use:
    python uGeneGUI.py
-###Usage
+### Usage:
 Within the "example" directory in the file location, you'll find two sets of data samples. The first set showcases simulated data, while the second features genuine data. Open the .phyloprofile or the respective .cluster.csv files. Use the graphical interface of uGenGUI to do so.
